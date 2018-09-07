@@ -33,7 +33,9 @@ west_side = ['Tupac', 'Dre', 'Snoop']
 
 haters = ['Keyshia Cole', 'Wendy Williams', '50 Cent', 'Lil Kim']
 
+# 13. Create a function that will print that last digit of an integer. 
 
+print()
 
 
 
