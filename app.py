@@ -1,3 +1,5 @@
+# Start
+
 # 1. As a valued customer at the Bank of Honolulu, you make a deposit of $1000. Your savings account balance prior to the deposit has an amount of $8000. Calculate the new savings account balance. Print the new savings account balance and concatenate the dollar sign.
 
 # 2.You need to pay taxes on the $500 cash prize that you won to the IRS ( The tax rate is 30%). Calculate the tax amount and subtract this from your savings balance. Print the updated savings account balance and concatenate the dollar sign.
@@ -14,12 +16,12 @@
 # Create a function that will take in three parameters named num1, num2 and num3. The function will sum up the first two parameters (num1 and num2) and subtract it from the third parameter (num3). Please use your previous functions (i.e. add or subtract) for this exercise. Print your result.
 
 # 7. Function shoe size
-#  Create a function that will take in a parameter named inches. This function will convert inches to centimeters(cm). Print your result. 
+#  Create a function that will take in a parameter named inches. This function will convert inches to centimeters(cm). Print your result.
 
 # 8. Create a function that will take in a parameter named cel. The function will convert Celsius into Fahrenheit. Print your result.
 
 # 9. Function all caps
-#  Create a function that will take in a parameter named str. This function will capitalize all the letters in the string. Print your result. 
+#  Create a function that will take in a parameter named str. This function will capitalize all the letters in the string. Print your result.
 
 # 10. Function one cap
 #  Create a function that will take in a parameter named str. The function will capitalize only the first letter in the string. Print your result.
@@ -33,7 +35,7 @@ west_side = ['Tupac', 'Dre', 'Snoop']
 
 haters = ['Keyshia Cole', 'Wendy Williams', '50 Cent', 'Lil Kim']
 
-# 13. Create a function that will print that last digit of an integer. 
+# 13. Create a function that will print that last digit of an integer.
 
 
 
